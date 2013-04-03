@@ -6,4 +6,6 @@ Simple demonstration test case for when the Safari web inspector fails to load (
 Steps to reproduce
 ------------------
 
-Load index.html via an HTTP server; the bug isn't manifest when loading the page from the local filesystem. Try inspecting. Can't. (╯°□°）╯︵ ┻━┻
+Load index.html via an HTTP server; the bug isn't manifest when loading the page from the local filesystem. Try inspecting. Can't. 
+
+(╯°□°）╯︵ ┻━┻
